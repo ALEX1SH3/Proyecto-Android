@@ -6,5 +6,5 @@ Las principales funcionalidades de Game News son:
 
 1)	Ingreso a la aplicación: A través de esta vista será posible ingresar a la APP mediante un correo electrónico y clave incluso asociando la cuenta de 2 redes sociales o correo  
 
- Proyecto-Android/imagenes/Lanzamientos app.png
+ ![imagenesproyecto](Proyecto-Android/imagenes/Lanzamientos app.png)
 
