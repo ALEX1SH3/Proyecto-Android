@@ -21,7 +21,7 @@ Las principales funcionalidades de Game News son:
  ![Videos](Proyecto-Android/imagenes/Videos app.png)
  
 5)	Lanzamientos: Por último, el usuario dispondrá de un calendario mediante el cual se le informara la fecha del lanzamiento de los videojuegos que se lanzaran para cada mes del cual requiera consultar
-6)	
+
  ![Lanzamientos](Proyecto-Android/imagenes/Lanzamientos app.pngg)
  
  
